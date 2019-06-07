@@ -54,7 +54,7 @@
       <br>password:
       <input type="password">
       <a href="/storage/emulated/0/">entrar</a>
-</div>
+
 
 <div class="contenedor3">
 <h5><font color="black">identificate</h5>
