@@ -6,27 +6,27 @@
   
 .contenedor{
         text-aling: center;
-        background: Aqua; 
+        background: Gold; 
         border:2px solid black;
-        height: 500px;
-        width: 700px;
+        height: 400px;
+        width: 600px;
         float: left;
 
       }
 .contenedor2{
         text-aling: center;
-        background: Aqua;
+        background: Gold;
         border:2px solid black;
-        height: 250px;
-        width: 250px;
+        height: 200px;
+        width: 200px;
         float: right;
 }
 .contenedor3{
         text-aling: center;
-        background: Aqua;
+        background: Gold;
         border:2px solid black;
-        height: 250px;
-        width: 250px;
+        height: 200px;
+        width: 200px;
         float: right;
 }
 
