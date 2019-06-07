@@ -36,15 +36,16 @@
 </head>
 <body>
               <div class="contenedor">
-               <center><h1><font color="blue">LO QUE APRENDI</h1></center>
+               
+<h1><font color="blue">LO QUE APRENDI</h1>
 <header>
    <nav>
-    <center><li><a href="https://tijuanomen.github.io/Animacion.html/">Animaciones</a></li></center>
-    <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.posicionamiento">posicionamiento</a></li></center>
-    <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.html">JS</a></li></center>
+    <li><a href="https://tijuanomen.github.io/Animacion.html/">Animaciones</a></li>
+   <li><a href="/home/pc26/4A/paginasweb/proyectos/index.posicionamiento">posicionamiento</a></li>
+    <li><a href="/home/pc26/4A/paginasweb/proyectos/index.html">JS</a></li>
 
 </div>
-    <center><font color="blue"><input type="button" value="BIENVENIDO"></center>
+   <font color="blue"><input type="button" value="BIENVENIDO">
 
 
        <div class="contenedor2">
@@ -65,8 +66,6 @@
 <br>Password:
 <input type="password">
 <a href="/storage/emulated/0/Index.com/accede_a_dom.js.enc">registrar</a>
-
-</body>
 
 <script>
 alert("dame tu edad");
