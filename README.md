@@ -38,7 +38,7 @@
                <center><h1><font color="blue">LO QUE APRENDI</h1></center>
 <header>
    <nav>
-    <center><li><a href="https://tijuanomen.github.io/Animacion.html/"></a>Animaciones</a></li></center>
+    <center><li><a href="https://tijuanomen.github.io/Animacion.html/">Animaciones</a></li></center>
     <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.posicionamiento">posicionamiento</a></li></center>
     <center><li><a href="/home/pc26/4A/paginasweb/proyectos/index.html">JS</a></li></center>
 
