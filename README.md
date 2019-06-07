@@ -14,24 +14,6 @@
         float: left;
 
       }
-.contenedor2{
-        text-aling: center;
-        background: Gold;
-        border:2px solid black;
-        height: 100px;
-        width: 100px;
-        float: right;
-}
-.contenedor3{
-        text-aling: center;
-        background: Gold;
-        border:2px solid black;
-        height: 100px;
-        width: 100px;
-        float: right;
-}
-
-
 </style>
 </head>
 <body>
