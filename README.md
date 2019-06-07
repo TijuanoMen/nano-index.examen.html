@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
 <tittle></tittle>
@@ -26,7 +25,7 @@
    <li><a href="/home/pc26/4A/paginasweb/proyectos/index.posicionamiento">posicionamiento</a></li>
     <li><a href="/home/pc26/4A/paginasweb/proyectos/index.html">JS</a></li>
 
-</div>
+
    <font color="blue"><input type="button" value="BIENVENIDO">
 
 
@@ -36,5 +35,4 @@ alert("dame tu edad");
 n1=prompt("");
 alert("tu edad es" + n1);
 </script>
-</body>
-</html>
+
