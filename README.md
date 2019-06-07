@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +10,7 @@
         background: Gold; 
         border:2px solid black;
         height: 300px;
-        width: 500px;
+        width: 400px;
         float: left;
 
       }
@@ -53,7 +54,7 @@
       <br>password:
       <input type="password">
       <a href="/storage/emulated/0/">entrar</a>
-  
+</div>
 
 <div class="contenedor3">
 <h5><font color="black">identificate</h5>
