@@ -37,7 +37,7 @@
 <body>
               <div class="contenedor">
                
-<h1><font color="blue">LO QUE APRENDI</h1>
+<h1><font color="blue">LO QUE APRENDI
 <header>
    <nav>
     <li><a href="https://tijuanomen.github.io/Animacion.html/">Animaciones</a></li>
@@ -48,25 +48,7 @@
    <font color="blue"><input type="button" value="BIENVENIDO">
 
 
-       <div class="contenedor2">
-      <h5><font color="black">identificate</h5>
-      E-mail:
-      <input type="text">
-      <br>password:
-      <input type="password">
-      <a href="/storage/emulated/0/">entrar</a>
-
-
-<div class="contenedor3">
-<h5><font color="black">identificate</h5>
-     Nombre:
-<input type="text">
-<br>Apellido:
-<input type="text">
-<br>Password:
-<input type="password">
-<a href="/storage/emulated/0/Index.com/accede_a_dom.js.enc">registrar</a>
-
+       
 <script>
 alert("dame tu edad");
 n1=prompt("");
